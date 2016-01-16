@@ -1,4 +1,4 @@
-# opensourceats
+# Applicant Tracking System
 Open Source Applicant Tracking System to track job applicants, job order, CRM and maintain pipeline of candidates.
 Focuses highly on usability and search.
 
@@ -25,4 +25,3 @@ Features includes
 * etc and many more to come.
 
 OpenSourceATS is a open source product being developed by Technology Rivers, LLC (http://technologyrivers.com). 
-OpenSourceATS is a part of comprehensive set of recruitment tools  developed by the Company. 
