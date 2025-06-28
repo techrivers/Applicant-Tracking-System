@@ -24,4 +24,4 @@ Features includes
 * Career Portal
 * etc and many more to come.
 
-OpenSourceATS is a open source product being developed by Technology Rivers, LLC (http://technologyrivers.com). 
+OpenSourceATS is a open source product being developed by Technology Rivers, LLC (https://technologyrivers.com). 
